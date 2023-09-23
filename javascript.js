@@ -13,6 +13,5 @@ myButton.addEventListener("click", function(event)
    
     Hello.innerHTML = EndPhrase;
 
-
 }
 );
